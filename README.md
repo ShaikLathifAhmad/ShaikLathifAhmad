@@ -1,21 +1,148 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lathif Ahmad
-=====================================================================================================================================
+<div align="center">
 
-Product designer
-----------------
+# Hi there 👋 I'm **Lathif Ahmad**
 
-Building 0 -> 1 and Saas products with design driven decisions
+### 🎨 Product Designer • UX Researcher • Front-End Developer
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [lathifahmad30@gmail.com](mailto:lathifahmad30@gmail.com)
-* 🧠  I'm currently learning UI/UX
-* 👥  I'm looking to collaborate on design projects
-* 💬  Would love to lead design decisions for your team
+*Building intuitive **0 → 1 products** and **SaaS experiences** through research-driven design.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Product+Designer;UX+Researcher;Designing+Meaningful+Experiences;Building+Products+Users+Love" />
+
+<br>
+
+![Location](https://img.shields.io/badge/📍-India-0A66C2?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Design%20Roles-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Currently-Learning%20UI%2FUX-blueviolet?style=for-the-badge)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Product Designer** passionate about transforming ideas into intuitive digital experiences.
+
+I enjoy working on **0 → 1 products**, solving user problems through research, interaction design, and data-driven decision-making.
+
+Currently exploring the intersection of:
+
+- 🎨 Product Design
+- 🧠 User Experience
+- 📊 Data Analytics
+- 🤖 AI-powered Products
+
+---
+
+# 🚀 What I'm Doing
+
+| 💼 | |
+|---|---|
+| 🌍 **Location** | India |
+| 📚 **Learning** | UI/UX & Product Thinking |
+| 🤝 **Collaboration** | Design Projects & Startups |
+| 💬 **Looking For** | Product Design Opportunities |
+| 🎯 **Goal** | Leading Product Design Decisions |
+
+---
+
+# 🛠️ Tech & Design Stack
+
+## 🎨 Design
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a>
+
+<a href="https://www.figma.com">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+
+<a href="https://www.framer.com">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6">
+
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/ShaikLathifAhmad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/athif-ahmad-b2b4b3278" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/hiro666yt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a></p>
+## 💻 Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github"/>
+
+</p>
+
+---
+
+## ☁️ Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=gcp"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+🎨 UI Design
+██████████░░░░░ 70%
+
+🧠 UX Research
+████████░░░░░░ 60%
+
+📊 Product Strategy
+███████░░░░░░░ 55%
+
+🤖 AI for Design
+██████░░░░░░░░ 50%
+```
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:lathifahmad30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShaikLathifAhmad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/athif-ahmad-b2b4b3278">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.com/hiro666yt">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<details>
+
+<summary><b>💡 My Design Philosophy</b></summary>
+
+> I believe great products aren't just visually appealing—they solve real problems, reduce complexity, and create delightful user experiences. Every design decision should be backed by user research, business goals, and measurable impact.
+
+</details>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
+</div>
