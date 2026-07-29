@@ -55,13 +55,10 @@ Currently exploring the intersection of:
 <img src="https://skillicons.dev/icons?i=figma" />
 </a>
 
-<a href="https://www.framer.com">
-<img src="https://skillicons.dev/icons?i=figma" />
-</a>
+
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6">
 
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 
 </p>
 
@@ -76,14 +73,6 @@ Currently exploring the intersection of:
 </p>
 
 ---
-
-## ☁️ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=gcp"/>
-
-</p>
 
 ---
 
