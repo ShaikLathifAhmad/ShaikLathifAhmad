@@ -1,363 +1,137 @@
 <div align="center">
 
-# PUJARI SAISREE
+# Hi there 👋 I'm **Lathif Ahmad**
 
-### Data Analyst • Business Intelligence • AI Enthusiast
+### 🎨 Product Designer • UX Researcher • Front-End Developer
 
-<p>
-Transforming raw data into meaningful business insights through analytics, visualization, and intelligent decision-making.
-</p>
+*Building intuitive **0 → 1 products** and **SaaS experiences** through research-driven design.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Product+Designer;UX+Researcher;Designing+Meaningful+Experiences;Building+Products+Users+Love" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/saisree-pujari-1b13612ba">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:pujarisai2323@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+![Location](https://img.shields.io/badge/📍-India-0A66C2?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Design%20Roles-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Currently-Learning%20UI%2FUX-blueviolet?style=for-the-badge)
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
+# 👨‍💻 About Me
 
-<td width="62%" valign="top">
+I'm a **Product Designer** passionate about transforming ideas into intuitive digital experiences.
 
-## Overview
+I enjoy working on **0 → 1 products**, solving user problems through research, interaction design, and data-driven decision-making.
 
-I enjoy turning complex datasets into clear, actionable insights that support better business decisions.
+Currently exploring the intersection of:
 
-My interests span data analytics, dashboard development, business intelligence, automation, and applying AI to solve practical challenges.
-
-Currently focused on building analytical solutions using SQL, Python, Power BI, and modern data tools while continuously expanding my knowledge of AI-driven analytics.
-
-</td>
-
-<td width="38%" valign="top">
-
-## Quick Facts
-
-**Role**
-
-Data Analyst
-
-<br>
-
-**Focus**
-
-Business Intelligence
-
-Data Analytics
-
-Dashboard Development
-
-AI Analytics
-
-<br>
-
-**Currently Learning**
-
-Advanced SQL
-
-Power BI
-
-Machine Learning
-
-Generative AI
-
-</td>
-
-</tr>
-</table>
+- 🎨 Product Design
+- 🧠 User Experience
+- 📊 Data Analytics
+- 🤖 AI-powered Products
 
 ---
 
-<div align="center">
+# 🚀 What I'm Doing
 
-> *"Transforming Data into Intelligent Decisions."*
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    FEATURED WORK                          -->
-<!-- ========================================================= -->
-
-## Featured Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Analytics Dashboard
-
-A collection of interactive dashboards built to transform raw datasets into actionable business insights using modern analytics and visualization techniques.
-
-**Focus**
-
-- Business KPIs
-- Interactive Visualizations
-- Performance Tracking
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Customer Insights Dashboard
-
-Exploring customer behavior through analytical models and visual reports that support data-driven business strategies.
-
-**Focus**
-
-- Customer Segmentation
-- Trend Analysis
-- Decision Support
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💰 Sales Performance Dashboard
-
-Designed to monitor sales performance, identify growth opportunities, and provide meaningful metrics for business improvement.
-
-**Focus**
-
-- Revenue Analysis
-- Sales KPIs
-- Forecasting
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Business Intelligence Dashboard
-
-Integrating multiple data sources into a unified reporting experience for better operational visibility and executive decision-making.
-
-**Focus**
-
-- Executive Reporting
-- Business Intelligence
-- Automation
-
-</td>
-
-</tr>
-
-</table>
+| 💼 | |
+|---|---|
+| 🌍 **Location** | India |
+| 📚 **Learning** | UI/UX & Product Thinking |
+| 🤝 **Collaboration** | Design Projects & Startups |
+| 💬 **Looking For** | Product Design Opportunities |
+| 🎯 **Goal** | Leading Product Design Decisions |
 
 ---
 
-## Building With Purpose
+# 🛠️ Tech & Design Stack
 
-I believe great analytics is more than creating dashboards—it is about helping people understand data, uncover opportunities, and make confident decisions.
-
-Every project focuses on solving practical business problems through clean visualizations, structured data, and meaningful insights.
-
----
-
-## Areas of Interest
-
-<table>
-<tr>
-
-<td>
-
-📊 Data Analytics
-
-</td>
-
-<td>
-
-📈 Business Intelligence
-
-</td>
-
-<td>
-
-🧠 Artificial Intelligence
-
-</td>
-
-<td>
-
-⚡ Automation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🐍 Python
-
-</td>
-
-<td>
-
-🗄 SQL
-
-</td>
-
-<td>
-
-📉 Data Visualization
-
-</td>
-
-<td>
-
-📋 Dashboard Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-<!-- ========================================================= -->
-<!--                 SKILLS & TECHNOLOGIES                     -->
-<!-- ========================================================= -->
-
-## Tech Stack
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Languages
+## 🎨 Design
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html"/>
+<a href="https://www.figma.com">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+
+
+
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6">
+
 
 </p>
 
-</td>
+---
 
-<td width="33%" valign="top">
-
-### Data Analytics
+## 💻 Development
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github"/>
 
 </p>
 
-</td>
-
-<td width="33%" valign="top">
-
-### Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-</td>
-
-</tr>
-</table>
+---
 
 ---
 
-## GitHub Analytics
+# 🌱 Currently Learning
 
-<div align="center">
+```text
+🎨 UI Design
+██████████░░░░░ 70%
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PujariSaisree&show_icons=true&theme=transparent&hide_border=true"/>
+🧠 UX Research
+████████░░░░░░ 60%
 
-<img width="48%" src="https://streak-stats.demolab.com?user=PujariSaisree&theme=transparent&hide_border=true"/>
+📊 Product Strategy
+███████░░░░░░░ 55%
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PujariSaisree&theme=github-dark&hide_border=true"/>
-
-</div>
+🤖 AI for Design
+██████░░░░░░░░ 50%
+```
 
 ---
 
-## GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PujariSaisree&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-<!-- ========================================================= -->
-<!--                     CONNECT & FOOTER                      -->
-<!-- ========================================================= -->
-
-## Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saisree-pujari-1b13612ba">
-
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<a href="mailto:lathifahmad30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+<a href="https://github.com/ShaikLathifAhmad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<a href="mailto:pujarisai2323@gmail.com">
+<a href="https://www.linkedin.com/in/athif-ahmad-b2b4b3278">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://www.behance.com/hiro666yt">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+<details>
+
+<summary><b>💡 My Design Philosophy</b></summary>
+
+> I believe great products aren't just visually appealing—they solve real problems, reduce complexity, and create delightful user experiences. Every design decision should be backed by user research, business goals, and measurable impact.
+
+</details>
+
+---
+
 <div align="center">
 
-## Thanks for Visiting
+### ⭐ Thanks for visiting!
 
-Data has the power to tell stories, reveal opportunities, and inspire better decisions.
-
-I'm always exploring new ideas in **Data Analytics**, **Business Intelligence**, and **Artificial Intelligence** while building solutions that create meaningful impact.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:6C63FF&section=footer"/>
+*"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
 
 </div>
