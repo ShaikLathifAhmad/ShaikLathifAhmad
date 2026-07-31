@@ -12,17 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&pause=1200&duration=3500&color=A855F7&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligent+Decisions.;SQL+%7C+Python+%7C+Power+BI.;Building+Real-World+Analytics+Projects.;Exploring+AI+for+Business+Insights."/>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/saisree-pujari-1b13612ba">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:pujarisai2323@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
