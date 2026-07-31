@@ -1,7 +1,3 @@
-<!-- ========================================================= -->
-<!--                  PREMIUM GITHUB PROFILE                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24,25,26,27,30&text=PUJARI%20SAISREE&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=DATA%20ANALYST&descAlignY=60&animation=fadeIn"/>
