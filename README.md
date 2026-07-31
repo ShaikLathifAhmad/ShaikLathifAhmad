@@ -115,10 +115,6 @@ Currently building end-to-end analytics projects while expanding my expertise in
 
 ## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8"/>
-</p>
-
 <br>
 
 ## Cloud
@@ -148,12 +144,6 @@ Currently building end-to-end analytics projects while expanding my expertise in
 ---
 
 # Featured Projects
-
-<div align="center">
-
-## 🚧 Coming Soon
-
-</div>
 
 <table align="center">
 <tr>
